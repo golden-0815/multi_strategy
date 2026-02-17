@@ -1,0 +1,7 @@
+MultiStrategyVaultTest:test_DepositsRouteToStrategies_AndShareMinting() (gas: 410500)
+MultiStrategyVaultTest:test_Rebalance_PullsFromOverweightInstant_ThenPushesToUnderweightLockup() (gas: 388267)
+MultiStrategyVaultTest:test_WithdrawQueuesLockupRemainder_ThenClaimPending() (gas: 543478)
+MultiStrategyVaultTest:test_YieldOnERC4626Strategy_IncreasesShareValue() (gas: 338821)
+MultiStrategyVaultTest:test_setAllocations_revertsWhenSingleProtocolExceedsMaxAlloc() (gas: 39536)
+MultiStrategyVaultTest:test_setMaxAllocPerProtocol_revertsForNonAdmin() (gas: 14570)
+MultiStrategyVaultTest:test_setMaxAllocPerProtocol_revertsIfAbove5000() (gas: 12007)
